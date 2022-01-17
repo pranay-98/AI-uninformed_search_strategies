@@ -1,6 +1,6 @@
 # a0
 <h1> Part 1: Navigation </h1>
-
+<h3>Files to reffer : route_pichu.py<h3>
 <h3> Problem Statement <h3>
 <p>A certain autonomous agent likes to fly around the
 house and interrupt video recordings at the most inopportune moments (Figure 1). Suppose that a house
@@ -61,6 +61,8 @@ If there is no possible solution, i.e. if the pichu cannot reach your location, 
 
 
 <h1> Part 2: Hide-and-seek </h1>
+ 
+ <h3>Files to reffer : arrange_pichu.py<h3>
  
 <h3> Problem Statement <h3>
 
